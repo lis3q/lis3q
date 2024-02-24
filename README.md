@@ -6,7 +6,7 @@ Hey there! I'm Szymon, a passionate front end enthusiast diving into the world o
 
 - **Name:** Szymon Lisek
 - **Occupation:** Front End Developer in training
-- **Location:** Krynica Morska, Poland
+- **Location:** Poland
 - **Email:** lis3qx@gmail.com
 - **Portfolio:** https://szymonlisek.netlify.app/
 
