@@ -13,11 +13,10 @@ Hey there! I'm Szymon, a passionate front end enthusiast diving into the world o
 ## Skills and Focus
 
 - **Primary Focus:** React.js
-- HTML5, CSS3, Sass/SCSS, Bootstrap, JavaScript
+- HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React, Figma
 - Responsive Web Design
 - Version Control (Git)
 - Basic understanding of UI/UX principles
-- Figma basics
 
 ## Learning Journey
 
