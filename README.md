@@ -1,14 +1,14 @@
-# Szymon Lisek - Front End Developer in the Making
+# Szymon - Front End Developer in the Making
 
 Hey there! I'm Szymon, a passionate front end enthusiast diving into the world of web development. Currently, I'm focused on mastering JavaScript and its associated frameworks. 
 
 ## About Me
 
-- **Name:** Szymon Lisek
+- **Name:** Szymon 
 - **Occupation:** Front End Developer in training
 - **Location:** Poland
-- **Email:** lis3qx@gmail.com
-- **Portfolio:** https://szymonlisek.netlify.app/
+- **Email:** frontend.szymon@gmail.com
+- **Portfolio:** https://szymonfrontend.netlify.app/
 
 ## Skills and Focus
 
@@ -28,7 +28,7 @@ I'm actively working on personal projects to apply my learning and showcase my e
 
 ## Contact
 
-Feel free to reach out via email at lis3qx@gmail.com for collaboration, questions, or just to connect!
+Feel free to reach out via email at frontend.szymon@gmail.com for collaboration, questions, or just to connect!
 
 Let's connect and build something awesome together!
 
