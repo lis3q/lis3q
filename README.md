@@ -8,7 +8,7 @@ Hey there! I'm Szymon, a passionate front end enthusiast diving into the world o
 - **Occupation:** Front End Developer in training
 - **Location:** Poland
 - **Email:** frontend.szymon@gmail.com
-- **Portfolio:** https://szymonfrontend.netlify.app/
+- **Portfolio:** https://szymonfrontend.pl/
 
 ## Skills and Focus
 
